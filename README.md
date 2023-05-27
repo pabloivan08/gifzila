@@ -1,0 +1,3 @@
+# Gifzila
+
+Explicacion del funcionamiento, explicamos el stack del proyecto etc...
